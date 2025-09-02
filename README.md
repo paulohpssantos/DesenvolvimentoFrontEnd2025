@@ -41,9 +41,6 @@ Este repositório contém projetos, exercícios e exemplos desenvolvidos durante
 - Navegador moderno (Chrome, Firefox, Edge, etc.)
 - Editor de código (VSCode recomendado)
 
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
