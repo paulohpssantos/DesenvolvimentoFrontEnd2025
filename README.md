@@ -47,5 +47,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-**Autor:** Paulo Santos  
+**Autor:** Paulo Henrique P. dos Santos  
 **Contato:** [GitHub](https://github.com/paulohpssantos)
