@@ -1,0 +1,7 @@
+<!--Lista de nomes-->
+<ul>
+  <li *ngFor="let nome of listaNomes; let i = index">
+    {{nome}}
+    <button (click)="removerNome(i)">Remover</button>
+  </li>
+</ul>
